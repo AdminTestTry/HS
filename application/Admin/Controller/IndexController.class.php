@@ -6,6 +6,6 @@ class IndexController extends Controller {
         $this->show();
     }
     public function add(){
-    	
+    	echo "测试gitbase";
     }
 }
