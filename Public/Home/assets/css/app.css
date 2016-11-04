@@ -1,0 +1,27 @@
+/* Write your styles */
+/* Write your styles */
+#m-messge{display:none;}
+.m-messge{height:100px;background-color:#FEF041; margin:auto; padding-top:15px;}
+.m-messge-name{ margin-left:16px; line-height:30px; }
+.m-messge-sub{ margin-left:16px; line-height:30px; text-align:center;cursor:pointer;}
+.messge-name{width:120px;}
+.messge-qq{width:120px;}
+.messge-msg{width:220px;}
+/*µ¼º½*/
+.m-hd{width:100%;}
+.m-logo{width:165px; line-height:60px; float:left; padding-left:16px;}
+.am-nav {
+    list-style: none;
+}
+.m-hd .am-nav>li>a {padding:0em 1em;}
+.am-offcanvas-bar {width:220px;}
+.m-phone-nav-list a{color:#ccc;}
+.m-phone-nav-list li{border-bottom: 1px solid #4F4F4F; width:145px;}
+.m-slides-con{ position:relative; }
+.m-slides-con img{   }
+.m-slides-p{ position:absolute;bottom:6px; margin-left:auto; width:100%; height:50px; z-index:999;}
+
+.m-logo{color:#000;}
+.m-nav a{color:#000;}
+/*m-suit*/
+.m-suit-title{ padding:20px 0; border-bottom:1px solid #ccc; }

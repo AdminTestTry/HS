@@ -1,0 +1,35 @@
+<!--页脚-->
+<footer class="am-margin-top"><hr/>
+  <p  class="am-text-center">Microsoft WebMatrix 2Microsoft WebMatrix 2Microsoft WebMatrix 2</p>
+  <p class="am-text-center">
+    <small>by The AmazeUI Team.</small>
+  </p>
+</footer>
+<!--页脚-->
+<!-- 以上页面内容 开发时删除 -->
+
+<!--[if lt IE 9]>
+<script src="http://libs.baidu.com/jquery/1.11.1/jquery.min.js"></script>
+<script src="http://cdn.staticfile.org/modernizr/2.8.3/modernizr.js"></script>
+<script src="__HOMEJS__/amazeui.ie8polyfill.min.js"></script>
+<![endif]-->
+
+<!--[if (gte IE 9)|!(IE)]><!-->
+<script src="__HOMEJS__/jquery.min.js"></script>
+<!--<![endif]-->
+<script src="__HOMEJS__/amazeui.min.js"></script>
+
+<script type="text/javascript">
+  $(function(){
+    $("#m-slides-messge").click(function() {
+      /* Act on the event */
+      $("#m-messge").toggle(500);
+    });
+    $("#m-remove").click(function(event) {
+      /* Act on the event */
+      $("#m-messge").hide(500);
+    });
+  })
+</script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+[ 2016-11-02T20:17:26+08:00 ] 127.0.0.1 /admin/index/index
+ERR: 无法加载控制器:Index
+
+[ 2016-11-02T20:18:05+08:00 ] 127.0.0.1 /admin/index/index
+ERR: 无法加载控制器:Index
+
+[ 2016-11-02T20:18:24+08:00 ] 127.0.0.1 /admin/Index/index
+ERR: 无法加载控制器:Index
+
