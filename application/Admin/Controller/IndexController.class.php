@@ -8,5 +8,6 @@ class IndexController extends Controller {
     public function add(){
     	echo "测试gitbase";
     	echo "string";
+    	echo "测试github";
     }
 }
